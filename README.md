@@ -12,7 +12,7 @@ This Python script fetches and displays metadata for an Azure VM using Azure's I
 To download and run the script directly from GitHub, execute the following command:
 
 ```bash
-curl -s https://raw.githubusercontent.com/samatild/azvmprofilefetcher/main/azurevmprofile.py | python
+curl -s https://raw.githubusercontent.com/samatild/azvmprofilefetcher/main/azurevmprofile.py | python3
 ```
 
 ## Requirements
